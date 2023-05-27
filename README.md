@@ -1,5 +1,10 @@
 # quiz_app
 
+This is cross platform quiz application buit in flutter using BLoC state management.
+
+
+To use this application follow the following steps
+
 
 ### Installation
 ```
