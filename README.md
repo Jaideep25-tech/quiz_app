@@ -2,6 +2,7 @@
 
 This is cross platform quiz application buit in flutter using BLoC state management.
 
+Package:- flutter BLoC
 
 To use this application follow the following steps
 
